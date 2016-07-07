@@ -15,8 +15,8 @@ url:              http://digitalframeworks.github.io
 baseurl:          /
 
 author:
-  name:           'David Eads'
-  url:            https://twitter.com/eads
+  name:           'kat lonsdorf'
+  url:            https://twitter.com/lilkat_bigworld
 
 paginate:         15
 
