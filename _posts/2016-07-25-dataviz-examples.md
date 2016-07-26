@@ -20,7 +20,7 @@ I do wish that the timeline at the top was clearer and marked with years in a mo
 
 I couldn’t embed the map, but here’s a screenshot of it:
 
-    ![screenshot good viz](/public/Good_Data_Example.png)
+    ![screenshot good viz](/public/Good_Data_Example.jpg)
 
 In terms of bad data visualization, I found quite a few, but this one below makes me want to die.  I found it on WTF visualizations, but couldn’t find an original source for it, so I’m not sure where it comes from.  I suppose that’s part of the problem with it, too—there’s no mention of a source for what data was used to make this visualization.
 
