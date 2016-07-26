@@ -20,6 +20,8 @@ I do wish that the timeline at the top was clearer and marked with years in a mo
 
 I couldn’t embed the map, but here’s a screenshot of it:
 
+    ![Image description for sight-impaired](/public/Good_Data_Example.png)
+
 In terms of bad data visualization, I found quite a few, but this one below makes me want to die.  I found it on WTF visualizations, but couldn’t find an original source for it, so I’m not sure where it comes from.  I suppose that’s part of the problem with it, too—there’s no mention of a source for what data was used to make this visualization.
 
 There are SO many issues with it, but the main one is that the percentages don’t even equal 100 percent, which makes me wonder where the numbers could have possibly come from.  My guess is that the data came from a survey where respondents could check more than one box, but then that should be thought about before the survey is conducted.
