@@ -2,7 +2,7 @@
 layout: post
 
 title: The Best and Worst of Data Visualization
-description: When good data goes bad (or really, really good)
+description: When good data goes bad (or gets even better).
 
 author: kat lonsdorf
 email: klonsdorf@gmail.com
