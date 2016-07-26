@@ -28,6 +28,6 @@ In terms of bad data visualization, I found quite a few, but this one below make
 
 There are SO many issues with it, but the main one is that the percentages don’t even equal 100 percent, which makes me wonder where the numbers could have possibly come from.  My guess is that the data came from a survey where respondents could check more than one box, but then that should be thought about before the survey is conducted.
 
-Beyond the math, I don’t understand why this data is represented on a human form.  Like, why is the crotch section tech-savv?  And the legs are people-savvy?  It makes no sense.  
+Beyond the math, I don’t understand why this data is represented on a human form.  Like, why is the crotch section "tech-savvy"?  And the legs are "people-savvy"?  It makes no sense.  
 
-Honestly, I don’t really think that this subject matter needs a visualization (just write 300 words if you have to and then stop writing stories that generalize generations because that story has been done a million times), but if you had to do something with this data, I would do a bar graph or something and be done with it.  And also figure out what survey it came from and why.
+Honestly, I don’t really think that this subject really needs a visualization (just write 300 words if you have to and then stop writing stories that generalize generations because that story has been done a million times), but if you had to do something with this data, I would do a bar graph or something and be done with it.  Also figure out what survey it came from, why it was done, how it was done, and how it was answered.  And double-check the math.
