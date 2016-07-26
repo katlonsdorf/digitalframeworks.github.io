@@ -14,7 +14,7 @@ I came across <a href=" http://www.lucify.com/the-flow-towards-europe/">this exa
 
 It’s also apparent that there was a lot of thought put into it. Instead of making each dot represent one person (which might be overwhelming and cluttered), each dot represents 25 people, or a busload with every other seat taken (although I would argue that’s not super realistic).  It’s consistent and easy to follow, and I like that the user can control the speed and isolate a country to see specific data.
 
-As you scroll down the data is visualized in two more ways to understand the story better.  I like the timeline flow chart that shows each country month-by-month because it puts the map into context.  And the soccer field info graphic at the very bottom is a simple visualization to show the much larger problem.   It’s probably my least favorite part of the whole project—the map is the most impressive feature—but it works.
+As you scroll down the data is visualized in two more ways to understand the story better.  I like the timeline flow chart that shows each country month-by-month because it puts the map into context.  And the soccer field info graphic at the very bottom is a simple visualization to show the much larger problem. It’s probably my least favorite part of the whole project—the map is the most impressive feature—but it works.
 
 I do wish that the timeline at the top was clearer and marked with years in a more apparent way.  I also wish it was easier to zoom out on the map itself, because it was hard to tell where some migrants are coming from.  
 
@@ -26,7 +26,7 @@ In terms of bad data visualization, I found quite a few, but this one below make
 
 <img src="https://github.com/katlonsdorf/katlonsdorf.github.io/blob/master/public/Bad_Data_Example.jpg?raw=true" width=450 height=400>
 
-There are SO many issues with it, but the main one is that the percentages don’t even equal 100 percent, which makes me wonder where the numbers could have possibly come from.  My guess is that the data came from a survey where respondents could check more than one box, but then that should be thought about before the survey is conducted.
+There are SO many issues with it, but the main one is that the percentages don’t even equal 100 percent, which makes me wonder where the numbers could have possibly come from.  My guess is that the data came from a survey where respondents could check more than one box, but then that maybe should have been a hint to not use percentages to showcase the data.
 
 Beyond the math, I don’t understand why this data is represented on a human form.  Like, why is the crotch section "tech-savvy"?  And the legs are "people-savvy"?  It makes no sense.  
 
