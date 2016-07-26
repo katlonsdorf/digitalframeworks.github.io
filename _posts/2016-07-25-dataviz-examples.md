@@ -22,7 +22,7 @@ I couldn’t embed the map, but here’s a screenshot of it:
 
 <img src="https://github.com/katlonsdorf/katlonsdorf.github.io/blob/master/public/Good_Data_Example.jpg?raw=true">
 
-In terms of bad data visualization, I found quite a few, but this one below makes me want to die.  I found it on WTF visualizations, but couldn’t find an original source for it, so I’m not sure where it comes from.  I suppose that’s part of the problem with it, too—there’s no mention of a source for what data was used to make this visualization.
+In terms of bad data visualization, I found quite a few, but this one below makes me want to die.  I found it on <a href="http://viz.wtf/post/59697293967/hes-243-baby-boomer"> WTF Visualizations </a>, but couldn’t find an original source for it, so I’m not sure where it comes from.  I suppose that’s part of the problem with it, too—there’s no mention of a source for what data was used to make this visualization.
 
 <img src="https://github.com/katlonsdorf/katlonsdorf.github.io/blob/master/public/Bad_Data_Example.jpg?raw=true" width=450 height=400>
 
