@@ -24,6 +24,6 @@ The average size of a studio posted in the past week for this city is about 485 
 
 Here's a scatter plot of the data I used.  You can see the general trend.
 
-<iframe src="https://docs.google.com/spreadsheets/d/1kXrr6hzyCr9ckKVxfnko5g6jDZvkuKHFl7wJc4LxYI4/pubchart?oid=1014200616&amp;format=interactive" width=600 height=400></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1kXrr6hzyCr9ckKVxfnko5g6jDZvkuKHFl7wJc4LxYI4/pubchart?oid=1014200616&amp;format=interactive"></iframe>
 
 
