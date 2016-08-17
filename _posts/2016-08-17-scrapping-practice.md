@@ -20,7 +20,7 @@ Craigslist is by no means the only (or most reliable) source for housing options
 
 Not great news for a 29-year-old.
 
-The average size of a studio posted in the past week for this city is about 485 square feet.  The average price is $1,993. If you use the (a href="http://lifehacker.com/figure-out-how-much-rent-you-can-afford-with-the-40x-ru-1725085955")40x rule (/a), you'd need to make $79,720 a year to healthily afford that rent.
+The average size of a studio posted in the past week for this city is about 485 square feet.  The average price is $1,993. If you use the <a href="http://lifehacker.com/figure-out-how-much-rent-you-can-afford-with-the-40x-ru-1725085955">40x rule </a>, you'd need to make $79,720 a year to healthily afford that rent.
 
 I'm sure I'll be making that as a journalist (or bartender) in no time.
 
@@ -28,6 +28,6 @@ I cleaned (a href="https://docs.google.com/spreadsheets/d/1kXrr6hzyCr9ckKVxfnko5
 
 <iframe width="800" height="400" src="https://docs.google.com/spreadsheets/d/1kXrr6hzyCr9ckKVxfnko5g6jDZvkuKHFl7wJc4LxYI4/pubchart?oid=1014200616&amp;format=image"></iframe>
 
-To put that in perspective, a quick Craigslist search of Des Moines, Iowa found that I could also rent a (a href="http://desmoines.craigslist.org/apa/5735193142.html") four-bedroom, two-and-a-half bathroom, 2,189-square-foot house (/a) for almost the exact same amount a month.  
+To put that in perspective, a quick Craigslist search of Des Moines, Iowa found that I could also rent a <a href="http://desmoines.craigslist.org/apa/5735193142.html"> four-bedroom, two-and-a-half bathroom, 2,189-square-foot house </a> for almost the exact same amount a month.  
 
-I wonder if the (a href="http://www.desmoinesregister.com/" Des Moines Register (/a) is hiring.
+I wonder if the <a href="http://www.desmoinesregister.com/"> Des Moines Register </a> is hiring.
