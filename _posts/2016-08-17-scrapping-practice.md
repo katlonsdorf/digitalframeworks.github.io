@@ -24,7 +24,7 @@ The average size of a studio posted in the past week for this city is about 485 
 
 I'm sure I'll be making that as a journalist (or bartender) in no time.
 
-I cleaned (a href="https://docs.google.com/spreadsheets/d/1kXrr6hzyCr9ckKVxfnko5g6jDZvkuKHFl7wJc4LxYI4/edit?usp=sharing")the data (/a) to free it from the one- and two-bedroom apartments that still came up in the Craigslist search, and also from some of the blatant outliers that looked to be either mislabled or scams. Here's a scatter plot of what I found.  You can see the general trend: 
+I cleaned <a href="https://docs.google.com/spreadsheets/d/1kXrr6hzyCr9ckKVxfnko5g6jDZvkuKHFl7wJc4LxYI4/edit?usp=sharing"> the data </a> to free it from the one- and two-bedroom apartments that still came up in the Craigslist search, and also from some of the blatant outliers that looked to be either mislabled or scams. Here's a scatter plot of what I found.  You can see the general trend: 
 
 <iframe width="800" height="400" src="https://docs.google.com/spreadsheets/d/1kXrr6hzyCr9ckKVxfnko5g6jDZvkuKHFl7wJc4LxYI4/pubchart?oid=1014200616&amp;format=image"></iframe>
 
