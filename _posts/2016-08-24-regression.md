@@ -20,4 +20,4 @@ The price of copper as a commodity generally follows economic senitment, which i
 
 Here is the trend from the past five years:
 
-<iframe src="https://docs.google.com/spreadsheets/d/18cKh_aHxtplqewVKtYBOJTTQuxOYIQqfV85pO2RoW64/pubchart?oid=1272670926&amp;format=interactive"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/18cKh_aHxtplqewVKtYBOJTTQuxOYIQqfV85pO2RoW64/pubchart?oid=1272670926&amp;format=interactive" width="600" height="400"></iframe>
