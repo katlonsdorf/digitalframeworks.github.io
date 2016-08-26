@@ -21,3 +21,5 @@ The price of copper as a commodity generally follows economic senitment, which i
 Here is the trend from the past five years:
 
 <iframe src="https://docs.google.com/spreadsheets/d/18cKh_aHxtplqewVKtYBOJTTQuxOYIQqfV85pO2RoW64/pubchart?oid=1272670926&amp;format=interactive" width="600" height="400"></iframe>
+
+An interesting sidenote to this--and the reason I was looking at copper prices in first place--is that the electric industry was severly suffering from substation break-ins five years ago when copper prices were so high.  The grounding wire in substations has traditionally been made of copper wire, and when prices were so high it was a popular source of scrap metal.  Substation operators have been relieved that falling copper prices have meant less frequent break-ins.  
